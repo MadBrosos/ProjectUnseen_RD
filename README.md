@@ -1,6 +1,6 @@
 # ProjectUnseen_RD
 
-## Useful Information Before Launch
+## Useful Information before launching the project
 - UE Version : 5.3.2
 - Unity Version : 6.0
 
