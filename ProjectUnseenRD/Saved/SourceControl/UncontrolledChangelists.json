@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/FirstPerson_Camera/RT_PhotoRender.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/FirstPerson_Camera/BP_FirstPersonCharacter_CP.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/FirstPerson_Camera/AC_Photo.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/FirstPerson_Camera/BP_FirstPersonPlayerController_CP.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/Widgets/WBP_Picture.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Maps/01_Proto.umap",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/Journal/BP_Journal.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/Widgets/WBP_Journal.uasset",
+				"D:/Projet/ProjectUnseen_RD/ProjectUnseenRD/Content/Blueprint/Widgets/WBP_PictureHolder.uasset"
+			]
+		}
+	]
+}
